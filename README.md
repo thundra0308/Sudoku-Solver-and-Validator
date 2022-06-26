@@ -3,8 +3,6 @@
 
 <img width="360" height="800" alt="Screenshot_2022-06-26-10-50-34-87_cec99efb0bf5dfea1735b3b4261793cf" src="https://user-images.githubusercontent.com/103625079/175802039-85f74f3e-6b1f-4578-a9a7-ebe00619e858.jpg">
 
-<img width="360" height="800" alt="Screenshot_2022-06-26-10-50-45-56_cec99efb0bf5dfea1735b3b4261793cf" src="https://user-images.githubusercontent.com/103625079/175802298-dc855e01-1010-4b63-975c-6f151f89d1d2.jpg">
-
 <img width="360" height="800" alt="Screenshot_2022-06-26-10-51-06-00_cec99efb0bf5dfea1735b3b4261793cf" src="https://user-images.githubusercontent.com/103625079/175802327-d9cbd9f0-b14c-4cbf-b5fc-8cf8463613da.jpg">
 
 <img width="360" height="800" alt="Screenshot_2022-06-26-10-51-26-32_cec99efb0bf5dfea1735b3b4261793cf" src="https://user-images.githubusercontent.com/103625079/175802362-909f29c2-a47e-4e3a-9423-fa678df9e036.jpg">
