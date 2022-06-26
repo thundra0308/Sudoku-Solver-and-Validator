@@ -1,2 +1,3 @@
 # Sudoku  Solver and Validator
- Android Application
+ Android Application to Find Solution of Any Sudoku Problem.
+
